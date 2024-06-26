@@ -2,10 +2,10 @@
 
 ## Features
 
--Theme switching
--Homepage
--My card page
--A settings page
+-**Theme switching**
+-**Homepage**
+-**My card page**
+-**A settings page**
 
 
 
