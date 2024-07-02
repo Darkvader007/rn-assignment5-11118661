@@ -13,11 +13,11 @@
 
 ## Light mode
 
-![Light mode](GabeApp/images/Simulator Screenshot 1.png)
+![Light mode](../images/Simulator Screenshot 1.png)
 
 ## Dark mode
 
-![Dark mode](GabeApp/images/Simulator Screenshot 3 .png)
+![Dark mode](../images/Simulator Screenshot 3 .png)
 
 
 
